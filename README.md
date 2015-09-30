@@ -27,15 +27,15 @@ Schritt 4
 Wiederhole schritt 3 dreißig mal.
 
 
+### The result
 
+![analogAlgo](image/analogAlgo.png)
 
 
 ## Digital algorithm
 After we did the analog algorithm we tried to convert it into digital form. I choosed pythonScript for Rhino3D for mine. The picture you see below is rendered in Keyshot. The idea is to us the model as a lamp with confusing shadow.
 
-## The result
-![test](image/algorPic.png)
-rendered in Keyshot
+
 
 ### Prerequisite
 
@@ -61,9 +61,9 @@ For running the script you have to do following steps:
 5. If you like the "sculpture" you can save it, e.g. for rendering.
 6. Thats it
 
-### The result
-
-![analogAlgo](image/analogAlgo.png)
+## The result
+![test](image/algorPic.png)
+rendered in Keyshot
 
 ### Licence
 The MIT License (MIT)
